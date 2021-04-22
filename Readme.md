@@ -1,26 +1,95 @@
-URL to your portfolio web
-Link to github repo 
-descript. of your porfolio
-purpose: 
-Functionality: 
-sitemap: 
-screenshots: 
-target audience: 
-Tech stack (html, css, deployment platf.): 
+# Ethan Tran's Porfolio 
+## URL:
+https://ethantranporfolio.netlify.app/
 
-Strong tag: indicates bold and important element 
+## GitHub Link:
+https://github.com/Neymartri/T1A2---Portfolio/tree/master 
 
-root variables represents the HTML element and is identical to the selector HTML Main-text(gives header text the same color)
+### Discription: 
+ - <b>Purpose</b>: The purpose of this website is to reflect my working skills and personality interest. 
+ 
+- The intention of this website was to increase the visibility of my personal branding to get connect closer to clients and employers. 
 
-Use CSS shadow generator to create back shadow effect 
+-<b>Features & Functionality</b>:
+<ol>
+    <li>The brief intro designed with a Nav. bar, anchor sections and redirect to all pages.</li>
+    <li>Ulitlising of flex grid layout and css animations</li>
+    <li>Box shadow effect and webkit shadow* for a playful design also helps indicating the elements have functionality usage</li>
+    <li>Implementing a dark and light mode html theme for user accessiblity </li>
+    <li>Links to resume pdf and social links</li>
+    <li>blog sections for brief overview of content to transfer to blog.hmtl</li>
+    <li> A functional contact form that can recieve email through 3rd party application*</li>
+</ol>
 
-use grid display to set sections of grid 
+## Sitemap: 
 
-Create a dropdown link for Contact using css hover 
+<img src="img/Sitemap.png">
 
-using grit template column in section 2 to split the section in 2 column by autofit as many columns in to a the row. column should never be smaller than 320px and max expand is 1fr. 
-problem while laying out the blog post it was not up to desire. 
+## Screenshots: 
+#### Intro-wrapper: 
+<img src="img/Intro-wrapper.png">
 
-Dark and Light theme was optimised using 2 html pages and 2 different css theme layout 
+#### About-wrapper:
+<img src="img/Aboutme-wrapper.png">
 
-limitation: with lack of Jscript, wasn't able to have the transition more smoothly - although i was able to figure-out using this alternative also works by anchoring between 2htmls. 
+#### Blogs: 
+<img src="img/Blogseciton-wrapper.png">
+
+#### Contact: 
+<img src="img/contact.png">
+
+## Target audiences: 
+- Employers or HR representatives
+- Clients and colleagues 
+- Developers 
+
+## Techstack: 
+- html 5 
+- Vanilla Css
+- Git 
+- Sitemap: https://app.diagrams.net/ 
+- Wireframe: Balsamiq Wireframe 
+- Screenshots: Snipping Tool 
+- Presentaiton: Figma convert to Powerpoint 
+- Hosting server: https://app.netlify.com/teams/neymartri/overview
+- Google fonts: https://fonts.google.com/
+- Github 
+
+
+### *References to outsourced contents & 3rd party app: 
+- Functional send button: https://formspree.io/ 
+- Webkit boxshadow: https://html-css-js.com/css/generator/box-shadow/
+- Contact form inspiration: https://codepen.io/search/pens?q=contact+form 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

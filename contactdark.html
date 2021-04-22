@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Contact Form</title>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Exo:wght@700&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="css/darkmode.css">
+
+</head>
+<body>
+    <div class="dark-theme"> 
+        <div class="navigation-wrapper">
+            <a href="darkmode.html"> 
+                <div class="threedots-wrapper">
+               <div id="dot-red" class="browse-dot"></div>
+               <div id="dot-yellow" class="browse-dot"></div>
+               <div id="dot-green" class="browse-dot"></div>
+            </div>
+            </a>
+    
+            <ul id="Navigation">
+                <ul>
+                    <li><a href="darkmode.html"><u>About</u></a></li>
+                    <li><a href="darkmode.html"><u>Portfolio</u></a></li>
+                    <li><a href="darkmode.html"><u>Contact Me!</u></a></li>
+                </ul>
+            </ul> 
+        </div>
+    
+    
+                <section class="s2">
+                    <div class="main-container">
+                        <h3 id="contact" style="text-align: center;margin-bottom: 5px;">&bull;  Keep In Touch  &bull;</h3>
+                        <div class="underline"></div>
+            
+                        <form id="contact-form">
+                             <Label> My Name Is:</Label>
+                             <input class="input-field" type="text"placeholder="Elon Musk" name="name">
+            
+                             <Label> Email:</Label>
+                             <Input class="input-field" type="text" name="email"> 
+            
+                             <Label>Contact Number:</Label>
+                             <Input class="input-field" type="text" name="number"> 
+                                
+                             <Label> Subject Line:</Label>
+                             <select name="subject" id="subject_input" required>
+                                 <option disabled hidden selected> I'd like to...</option>
+                                 <option>Business Inquiry</option>
+                                 <option>Start a project</option>
+                                 <option>Ask a question</option>
+                                 <option>Others</option>
+                             </select>
+                            
+                             <Label> Message About:</Label>
+                             <textarea class="input-field" placeholder="Kindly get to the point, if it is urgent please contact my LinkedIn" name="message"></textarea>
+            
+            
+                             <Input id="submit-button" type="submit" value="Send Message"> 
+                        </form>
+            
+                       
+            
+                    </div>
+                </section>
+</body>
+<footer class="footer" style="text-align: center;">&copy; Ethan Tran </footer>  
+</html>
