@@ -23,20 +23,24 @@ https://github.com/Neymartri/T1A2---Portfolio/tree/master
 
 ## Sitemap: 
 
-<img src="img/Sitemap.png">
+<img style="width: 350px" src="img/Sitemap.png">
 
-## Screenshots: 
-#### Intro-wrapper: 
-<img src="img/Intro-wrapper.png">
+## Screenshots:
+Intro-wrapper:
 
-#### About-wrapper:
-<img src="img/Aboutme-wrapper.png">
+<img style="width: 350px" src="img/Intro-wrapper.png">
 
-#### Blogs: 
-<img src="img/Blogseciton-wrapper.png">
+About-wrapper:
 
-#### Contact: 
-<img src="img/contact.png">
+<img style="width: 350px" src="img/Aboutme-wrapper.png">
+
+Blogs: 
+
+<img style="width: 350px" src="img/Blogseciton-wrapper.png">
+
+Contact: 
+
+<img style="width: 350px" src="img/contact.png">
 
 ## Target audiences: 
 - Employers or HR representatives
