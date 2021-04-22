@@ -27,15 +27,19 @@ https://github.com/Neymartri/T1A2---Portfolio/tree/master
 
 ## Screenshots: 
 #### Intro-wrapper: 
+
 <img src="img/Intro-wrapper.png">
 
 #### About-wrapper:
+
 <img src="img/Aboutme-wrapper.png">
 
 #### Blogs: 
+
 <img src="img/Blogseciton-wrapper.png">
 
 #### Contact: 
+
 <img src="img/contact.png">
 
 ## Target audiences: 
