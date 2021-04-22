@@ -25,6 +25,7 @@ https://github.com/Neymartri/T1A2---Portfolio/tree/master
 
 <img style="width: 350px" src="img/Sitemap.png">
 
+
 ## Screenshots:
 Intro-wrapper:
 
@@ -41,6 +42,7 @@ Blogs:
 Contact: 
 
 <img style="width: 350px" src="img/contact.png">
+=======
 
 ## Target audiences: 
 - Employers or HR representatives
