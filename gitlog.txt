@@ -1,0 +1,72 @@
+commit 9edd90e9dac9c105f0e8e0d8915a0dfe46c0c738
+Merge: 7b60239 34bd8ee
+Author: root <khoaleo2002@gmail.com>
+Date:   Thu Apr 22 19:37:42 2021 +1000
+
+    fix readme#2
+
+commit 7b60239255e5fed40e2aa2b3c9702b4c116029a2
+Author: root <khoaleo2002@gmail.com>
+Date:   Thu Apr 22 19:35:26 2021 +1000
+
+    fixreadme #2
+
+commit 34bd8ee0876b534accfa700b7e28ba40f8010e78
+Author: Ethan Tran <81192154+Neymartri@users.noreply.github.com>
+Date:   Thu Apr 22 19:30:19 2021 +1000
+
+    Update Readme.md
+
+commit 8a9ef7731322be62bd47bd009e716c795c898975
+Author: root <khoaleo2002@gmail.com>
+Date:   Thu Apr 22 19:18:29 2021 +1000
+
+    re-write readme, add contact.html & Include screenshots
+
+commit 76a437df16c262fdbf7f101fe30a42b3e43d57d1
+Author: root <khoaleo2002@gmail.com>
+Date:   Thu Apr 22 11:14:52 2021 +1000
+
+    1st commit to main
+
+commit 4bbc209e3e5596e7c68083aa5df6d4fb211d8979
+Author: root <khoaleo2002@gmail.com>
+Date:   Mon Apr 19 16:18:31 2021 +1000
+
+    send all
+
+commit 3c0408ff56099f2e0ccf26fe9f62db19a298769d
+Author: root <khoaleo2002@gmail.com>
+Date:   Mon Apr 19 15:23:42 2021 +1000
+
+    add darkmode hmtl
+
+commit d50a8328190aa61ec5b15ba38e10765474ff995d
+Author: root <khoaleo2002@gmail.com>
+Date:   Mon Apr 19 15:18:48 2021 +1000
+
+    add css&darkmodecss
+
+commit 1658be93bee465e5e1cf1808da394fc5110ffc0c
+Author: root <khoaleo2002@gmail.com>
+Date:   Mon Apr 19 13:08:43 2021 +1000
+
+    add blog pages
+
+commit b22dd6ae14e339970116b590971f03c806c2d055
+Author: root <khoaleo2002@gmail.com>
+Date:   Mon Apr 19 11:58:45 2021 +1000
+
+    css&blog
+
+commit 7cabcadc92627f444763f9cbe0c24f141756fe63
+Author: root <khoaleo2002@gmail.com>
+Date:   Mon Apr 19 11:23:19 2021 +1000
+
+    added index.html
+
+commit a0fc75da59cec9580f5e66ddc21cf396933c7933
+Author: root <root@DESKTOP-05Q7FMI.localdomain>
+Date:   Mon Apr 19 09:51:30 2021 +1000
+
+    Initial Commit
